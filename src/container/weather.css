@@ -1,0 +1,28 @@
+* {
+  font-family: monospace;
+}
+.data {
+  font-family: monospace;
+  text-align: center;
+}
+.weather {
+  height: 790px;
+  border: 1px solid #eee;
+  margin: 0 auto;
+  background-image: url(./images/harli-marten-n7a2OJDSZns-unsplash.jpg);
+}
+.data p {
+  font-weight: bold;
+  font-size: 20px;
+}
+.title {
+  font-size: 30px;
+  color: black;
+  font-style: normal;
+  font-family: monospace;
+  text-align: center;
+  text-decoration: solid;
+}
+.cityName {
+  text-transform: capitalize;
+}
